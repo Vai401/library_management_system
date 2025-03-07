@@ -1,0 +1,479 @@
+2025-03-06 22:44:10,683 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-06 22:44:10,683 | INFO | [33mPress CTRL+C to quit[0m
+2025-03-06 22:44:10,695 | INFO |  * Restarting with stat
+2025-03-06 22:44:12,173 | WARNING |  * Debugger is active!
+2025-03-06 22:44:12,179 | INFO |  * Debugger PIN: 418-400-157
+2025-03-06 22:45:59,311 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-06 22:45:59,311 | INFO | [33mPress CTRL+C to quit[0m
+2025-03-06 22:45:59,326 | INFO |  * Restarting with stat
+2025-03-06 22:46:00,503 | WARNING |  * Debugger is active!
+2025-03-06 22:46:00,510 | INFO |  * Debugger PIN: 418-400-157
+2025-03-06 22:51:01,146 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-06 22:51:01,153 | INFO | [33mPress CTRL+C to quit[0m
+2025-03-06 22:51:01,162 | INFO |  * Restarting with stat
+2025-03-06 22:51:01,946 | WARNING |  * Debugger is active!
+2025-03-06 22:51:01,951 | INFO |  * Debugger PIN: 418-400-157
+2025-03-06 22:51:14,387 | INFO |  * Detected change in 'D:\\library_management_system\\app.py', reloading
+2025-03-06 22:51:14,591 | INFO |  * Restarting with stat
+2025-03-06 22:51:17,065 | WARNING |  * Debugger is active!
+2025-03-06 22:51:17,076 | INFO |  * Debugger PIN: 418-400-157
+2025-03-06 22:55:37,661 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-06 22:55:37,670 | INFO | [33mPress CTRL+C to quit[0m
+2025-03-06 22:55:37,682 | INFO |  * Restarting with stat
+2025-03-06 22:55:38,965 | WARNING |  * Debugger is active!
+2025-03-06 22:55:38,982 | INFO |  * Debugger PIN: 418-400-157
+2025-03-06 22:58:54,165 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-06 22:58:54,196 | INFO | [33mPress CTRL+C to quit[0m
+2025-03-06 22:58:54,198 | INFO |  * Restarting with stat
+2025-03-06 22:58:55,012 | WARNING |  * Debugger is active!
+2025-03-06 22:58:55,052 | INFO |  * Debugger PIN: 418-400-157
+2025-03-06 23:02:11,347 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-06 23:02:11,363 | INFO | [33mPress CTRL+C to quit[0m
+2025-03-06 23:10:30,436 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-06 23:10:30,460 | INFO | [33mPress CTRL+C to quit[0m
+2025-03-06 23:10:30,487 | INFO |  * Restarting with stat
+2025-03-06 23:10:32,276 | WARNING |  * Debugger is active!
+2025-03-06 23:10:32,312 | INFO |  * Debugger PIN: 418-400-157
+2025-03-06 23:10:59,075 | INFO | 127.0.0.1 - - [06/Mar/2025 23:10:59] "GET / HTTP/1.1" 200 -
+2025-03-06 23:10:59,588 | INFO | 127.0.0.1 - - [06/Mar/2025 23:10:59] "GET /static/styles.css HTTP/1.1" 200 -
+2025-03-06 23:11:02,614 | INFO | 127.0.0.1 - - [06/Mar/2025 23:11:02] "GET /signup HTTP/1.1" 200 -
+2025-03-06 23:11:02,656 | INFO | 127.0.0.1 - - [06/Mar/2025 23:11:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-06 23:11:09,222 | INFO | 127.0.0.1 - - [06/Mar/2025 23:11:09] "[31m[1mPOST /signup HTTP/1.1[0m" 400 -
+2025-03-06 23:11:16,221 | INFO | 127.0.0.1 - - [06/Mar/2025 23:11:16] "GET /login HTTP/1.1" 200 -
+2025-03-06 23:11:16,277 | INFO | 127.0.0.1 - - [06/Mar/2025 23:11:16] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-06 23:11:27,530 | INFO | 127.0.0.1 - - [06/Mar/2025 23:11:27] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2025-03-06 23:11:40,316 | INFO | 127.0.0.1 - - [06/Mar/2025 23:11:40] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2025-03-06 23:11:45,402 | INFO | 127.0.0.1 - - [06/Mar/2025 23:11:45] "GET /add_book HTTP/1.1" 200 -
+2025-03-06 23:11:45,449 | INFO | 127.0.0.1 - - [06/Mar/2025 23:11:45] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-06 23:11:48,769 | INFO | 127.0.0.1 - - [06/Mar/2025 23:11:48] "GET /show_books HTTP/1.1" 200 -
+2025-03-06 23:11:48,821 | INFO | 127.0.0.1 - - [06/Mar/2025 23:11:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-06 23:12:00,662 | INFO | 127.0.0.1 - - [06/Mar/2025 23:12:00] "GET /remove_book HTTP/1.1" 200 -
+2025-03-06 23:12:00,705 | INFO | 127.0.0.1 - - [06/Mar/2025 23:12:00] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-06 23:12:03,773 | INFO | 127.0.0.1 - - [06/Mar/2025 23:12:03] "GET /search_books HTTP/1.1" 200 -
+2025-03-06 23:12:03,835 | INFO | 127.0.0.1 - - [06/Mar/2025 23:12:03] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-06 23:18:04,587 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-06 23:18:04,589 | INFO | [33mPress CTRL+C to quit[0m
+2025-03-06 23:18:04,589 | INFO |  * Restarting with stat
+2025-03-06 23:18:06,445 | WARNING |  * Debugger is active!
+2025-03-06 23:18:06,502 | INFO |  * Debugger PIN: 418-400-157
+2025-03-06 23:22:04,001 | INFO |  * Detected change in 'D:\\library_management_system\\app.py', reloading
+2025-03-06 23:22:22,987 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-03-06 23:22:22,987 | INFO | [33mPress CTRL+C to quit[0m
+2025-03-06 23:23:55,770 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-06 23:23:55,797 | INFO | [33mPress CTRL+C to quit[0m
+2025-03-06 23:23:55,804 | INFO |  * Restarting with stat
+2025-03-06 23:23:56,782 | WARNING |  * Debugger is active!
+2025-03-06 23:23:56,827 | INFO |  * Debugger PIN: 418-400-157
+2025-03-06 23:24:08,422 | INFO |  * Detected change in 'D:\\library_management_system\\app.py', reloading
+2025-03-06 23:24:08,623 | INFO |  * Restarting with stat
+2025-03-06 23:32:54,900 | ERROR | Error: Directory migrations already exists and is not empty
+2025-03-06 23:33:19,145 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-06 23:33:19,145 | INFO | [33mPress CTRL+C to quit[0m
+2025-03-06 23:36:00,400 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-06 23:36:00,407 | INFO | [33mPress CTRL+C to quit[0m
+2025-03-06 23:37:03,433 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-06 23:37:03,433 | INFO | [33mPress CTRL+C to quit[0m
+2025-03-06 23:38:13,292 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-06 23:38:13,292 | INFO | [33mPress CTRL+C to quit[0m
+2025-03-06 23:38:55,515 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-03-06 23:38:55,515 | INFO | [33mPress CTRL+C to quit[0m
+2025-03-06 23:42:31,497 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-06 23:42:31,517 | INFO | [33mPress CTRL+C to quit[0m
+2025-03-06 23:44:02,101 | DEBUG | Home page accessed
+2025-03-06 23:44:04,058 | INFO | 127.0.0.1 - - [06/Mar/2025 23:44:04] "GET / HTTP/1.1" 200 -
+2025-03-06 23:44:04,585 | INFO | 127.0.0.1 - - [06/Mar/2025 23:44:04] "GET /static/styles.css HTTP/1.1" 200 -
+2025-03-06 23:45:46,723 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-06 23:45:46,727 | INFO | [33mPress CTRL+C to quit[0m
+2025-03-06 23:45:46,748 | INFO |  * Restarting with stat
+2025-03-06 23:45:48,235 | WARNING |  * Debugger is active!
+2025-03-06 23:45:48,294 | INFO |  * Debugger PIN: 418-400-157
+2025-03-06 23:47:08,424 | INFO |  * Detected change in 'D:\\library_management_system\\app.py', reloading
+2025-03-06 23:47:09,060 | INFO |  * Restarting with stat
+2025-03-06 23:47:24,205 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-06 23:47:24,205 | INFO | [33mPress CTRL+C to quit[0m
+2025-03-06 23:47:24,213 | INFO |  * Restarting with stat
+2025-03-06 23:47:26,304 | WARNING |  * Debugger is active!
+2025-03-06 23:47:26,367 | INFO |  * Debugger PIN: 418-400-157
+2025-03-06 23:47:40,170 | DEBUG | Home page accessed
+2025-03-06 23:47:40,243 | INFO | 127.0.0.1 - - [06/Mar/2025 23:47:40] "GET / HTTP/1.1" 200 -
+2025-03-06 23:47:40,985 | INFO | 127.0.0.1 - - [06/Mar/2025 23:47:40] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-06 23:47:45,358 | INFO | 127.0.0.1 - - [06/Mar/2025 23:47:45] "GET /login HTTP/1.1" 200 -
+2025-03-06 23:47:45,453 | INFO | 127.0.0.1 - - [06/Mar/2025 23:47:45] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-06 23:47:52,591 | INFO | 127.0.0.1 - - [06/Mar/2025 23:47:52] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2025-03-06 23:54:50,155 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-06 23:54:50,164 | INFO | [33mPress CTRL+C to quit[0m
+2025-03-06 23:54:50,180 | INFO |  * Restarting with stat
+2025-03-06 23:54:52,227 | WARNING |  * Debugger is active!
+2025-03-06 23:54:52,251 | INFO |  * Debugger PIN: 418-400-157
+2025-03-06 23:54:57,709 | DEBUG | Home page accessed
+2025-03-06 23:54:57,768 | INFO | 127.0.0.1 - - [06/Mar/2025 23:54:57] "GET / HTTP/1.1" 200 -
+2025-03-06 23:54:58,340 | INFO | 127.0.0.1 - - [06/Mar/2025 23:54:58] "GET /static/styles.css HTTP/1.1" 200 -
+2025-03-06 23:54:58,420 | INFO | 127.0.0.1 - - [06/Mar/2025 23:54:58] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+2025-03-06 23:55:12,908 | INFO | 127.0.0.1 - - [06/Mar/2025 23:55:12] "GET /show_books HTTP/1.1" 200 -
+2025-03-06 23:55:12,994 | INFO | 127.0.0.1 - - [06/Mar/2025 23:55:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-06 23:55:22,431 | INFO | 127.0.0.1 - - [06/Mar/2025 23:55:22] "GET /add_book HTTP/1.1" 200 -
+2025-03-06 23:55:22,505 | INFO | 127.0.0.1 - - [06/Mar/2025 23:55:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-06 23:55:24,818 | INFO | 127.0.0.1 - - [06/Mar/2025 23:55:24] "GET /show_books HTTP/1.1" 200 -
+2025-03-06 23:55:24,900 | INFO | 127.0.0.1 - - [06/Mar/2025 23:55:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-06 23:55:27,192 | INFO | 127.0.0.1 - - [06/Mar/2025 23:55:27] "GET /search_books HTTP/1.1" 200 -
+2025-03-06 23:55:27,260 | INFO | 127.0.0.1 - - [06/Mar/2025 23:55:27] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-06 23:55:31,660 | INFO | 127.0.0.1 - - [06/Mar/2025 23:55:31] "GET /login HTTP/1.1" 200 -
+2025-03-06 23:55:31,732 | INFO | 127.0.0.1 - - [06/Mar/2025 23:55:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-06 23:55:41,169 | INFO | 127.0.0.1 - - [06/Mar/2025 23:55:41] "POST /login HTTP/1.1" 200 -
+2025-03-06 23:55:41,229 | INFO | 127.0.0.1 - - [06/Mar/2025 23:55:41] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-06 23:55:44,136 | INFO | 127.0.0.1 - - [06/Mar/2025 23:55:44] "GET /login HTTP/1.1" 200 -
+2025-03-06 23:55:48,343 | INFO | 127.0.0.1 - - [06/Mar/2025 23:55:48] "GET /add_book HTTP/1.1" 200 -
+2025-03-06 23:55:48,414 | INFO | 127.0.0.1 - - [06/Mar/2025 23:55:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-06 23:55:51,582 | INFO | 127.0.0.1 - - [06/Mar/2025 23:55:51] "GET /remove_book HTTP/1.1" 200 -
+2025-03-06 23:55:51,645 | INFO | 127.0.0.1 - - [06/Mar/2025 23:55:51] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-06 23:55:54,735 | INFO | 127.0.0.1 - - [06/Mar/2025 23:55:54] "GET /show_books HTTP/1.1" 200 -
+2025-03-06 23:55:54,804 | INFO | 127.0.0.1 - - [06/Mar/2025 23:55:54] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-06 23:56:02,962 | INFO | 127.0.0.1 - - [06/Mar/2025 23:56:02] "GET /search_books HTTP/1.1" 200 -
+2025-03-06 23:56:03,028 | INFO | 127.0.0.1 - - [06/Mar/2025 23:56:03] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:06:10,565 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-07 00:06:10,574 | INFO | [33mPress CTRL+C to quit[0m
+2025-03-07 00:06:10,587 | INFO |  * Restarting with stat
+2025-03-07 00:06:12,732 | WARNING |  * Debugger is active!
+2025-03-07 00:06:12,771 | INFO |  * Debugger PIN: 418-400-157
+2025-03-07 00:06:16,783 | DEBUG | Home page accessed
+2025-03-07 00:06:16,842 | INFO | 127.0.0.1 - - [07/Mar/2025 00:06:16] "GET / HTTP/1.1" 200 -
+2025-03-07 00:06:17,345 | INFO | 127.0.0.1 - - [07/Mar/2025 00:06:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:06:17,400 | INFO | 127.0.0.1 - - [07/Mar/2025 00:06:17] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+2025-03-07 00:06:24,983 | INFO | 127.0.0.1 - - [07/Mar/2025 00:06:24] "GET /show_books HTTP/1.1" 200 -
+2025-03-07 00:06:25,067 | INFO | 127.0.0.1 - - [07/Mar/2025 00:06:25] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:06:32,717 | INFO | 127.0.0.1 - - [07/Mar/2025 00:06:32] "GET /search_books HTTP/1.1" 200 -
+2025-03-07 00:06:32,788 | INFO | 127.0.0.1 - - [07/Mar/2025 00:06:32] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:06:37,523 | INFO | 127.0.0.1 - - [07/Mar/2025 00:06:37] "GET /add_book HTTP/1.1" 200 -
+2025-03-07 00:06:37,589 | INFO | 127.0.0.1 - - [07/Mar/2025 00:06:37] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:06:50,105 | INFO | New book added: Bojack Horseman
+2025-03-07 00:06:50,107 | INFO | 127.0.0.1 - - [07/Mar/2025 00:06:50] "[32mPOST /add_book HTTP/1.1[0m" 302 -
+2025-03-07 00:06:50,128 | INFO | 127.0.0.1 - - [07/Mar/2025 00:06:50] "GET /show_books HTTP/1.1" 200 -
+2025-03-07 00:06:50,227 | INFO | 127.0.0.1 - - [07/Mar/2025 00:06:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:07:03,745 | INFO | 127.0.0.1 - - [07/Mar/2025 00:07:03] "GET /search_books HTTP/1.1" 200 -
+2025-03-07 00:07:03,810 | INFO | 127.0.0.1 - - [07/Mar/2025 00:07:03] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:07:11,537 | INFO | 127.0.0.1 - - [07/Mar/2025 00:07:11] "GET /show_books HTTP/1.1" 200 -
+2025-03-07 00:07:11,603 | INFO | 127.0.0.1 - - [07/Mar/2025 00:07:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:07:15,369 | INFO | 127.0.0.1 - - [07/Mar/2025 00:07:15] "GET /search_books HTTP/1.1" 200 -
+2025-03-07 00:07:15,443 | INFO | 127.0.0.1 - - [07/Mar/2025 00:07:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:07:18,494 | INFO | 127.0.0.1 - - [07/Mar/2025 00:07:18] "GET /remove_book HTTP/1.1" 200 -
+2025-03-07 00:07:18,555 | INFO | 127.0.0.1 - - [07/Mar/2025 00:07:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:07:29,583 | INFO | 127.0.0.1 - - [07/Mar/2025 00:07:29] "GET /show_books HTTP/1.1" 200 -
+2025-03-07 00:07:29,654 | INFO | 127.0.0.1 - - [07/Mar/2025 00:07:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:08:29,933 | INFO | 127.0.0.1 - - [07/Mar/2025 00:08:29] "GET /show_books HTTP/1.1" 200 -
+2025-03-07 00:08:31,657 | INFO | 127.0.0.1 - - [07/Mar/2025 00:08:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:08:31,813 | INFO | 127.0.0.1 - - [07/Mar/2025 00:08:31] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+2025-03-07 00:08:35,142 | INFO | 127.0.0.1 - - [07/Mar/2025 00:08:35] "GET /search_books HTTP/1.1" 200 -
+2025-03-07 00:08:35,210 | INFO | 127.0.0.1 - - [07/Mar/2025 00:08:35] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:08:37,661 | INFO | 127.0.0.1 - - [07/Mar/2025 00:08:37] "GET /remove_book HTTP/1.1" 200 -
+2025-03-07 00:08:37,731 | INFO | 127.0.0.1 - - [07/Mar/2025 00:08:37] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:12:03,969 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-07 00:12:03,976 | INFO | [33mPress CTRL+C to quit[0m
+2025-03-07 00:12:03,994 | INFO |  * Restarting with stat
+2025-03-07 00:12:05,113 | WARNING |  * Debugger is active!
+2025-03-07 00:12:05,136 | INFO |  * Debugger PIN: 418-400-157
+2025-03-07 00:12:07,511 | DEBUG | Home page accessed
+2025-03-07 00:12:07,579 | INFO | 127.0.0.1 - - [07/Mar/2025 00:12:07] "GET / HTTP/1.1" 200 -
+2025-03-07 00:12:08,544 | INFO | 127.0.0.1 - - [07/Mar/2025 00:12:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:12:08,919 | INFO | 127.0.0.1 - - [07/Mar/2025 00:12:08] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+2025-03-07 00:12:11,883 | INFO | 127.0.0.1 - - [07/Mar/2025 00:12:11] "GET /add_book HTTP/1.1" 200 -
+2025-03-07 00:12:11,971 | INFO | 127.0.0.1 - - [07/Mar/2025 00:12:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:12:12,012 | INFO | 127.0.0.1 - - [07/Mar/2025 00:12:12] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+2025-03-07 00:12:16,187 | INFO | 127.0.0.1 - - [07/Mar/2025 00:12:16] "GET /remove_book HTTP/1.1" 200 -
+2025-03-07 00:12:16,258 | INFO | 127.0.0.1 - - [07/Mar/2025 00:12:16] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:12:34,041 | ERROR | Show books error: Could not build url for endpoint 'borrow_book' with values ['book_id']. Did you mean 'show_books' instead?
+2025-03-07 00:12:34,048 | INFO | 127.0.0.1 - - [07/Mar/2025 00:12:34] "[35m[1mGET /show_books HTTP/1.1[0m" 500 -
+2025-03-07 00:12:43,626 | INFO | 127.0.0.1 - - [07/Mar/2025 00:12:43] "GET /search_books HTTP/1.1" 200 -
+2025-03-07 00:12:43,694 | INFO | 127.0.0.1 - - [07/Mar/2025 00:12:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:12:57,554 | ERROR | Show books error: Could not build url for endpoint 'borrow_book' with values ['book_id']. Did you mean 'show_books' instead?
+2025-03-07 00:12:57,561 | INFO | 127.0.0.1 - - [07/Mar/2025 00:12:57] "[35m[1mGET /show_books HTTP/1.1[0m" 500 -
+2025-03-07 00:13:19,048 | INFO | 127.0.0.1 - - [07/Mar/2025 00:13:19] "GET /search_books HTTP/1.1" 200 -
+2025-03-07 00:13:19,128 | INFO | 127.0.0.1 - - [07/Mar/2025 00:13:19] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:13:48,363 | INFO | 127.0.0.1 - - [07/Mar/2025 00:13:48] "GET /search_books HTTP/1.1" 200 -
+2025-03-07 00:13:48,439 | INFO | 127.0.0.1 - - [07/Mar/2025 00:13:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:13:50,583 | ERROR | Show books error: Could not build url for endpoint 'borrow_book' with values ['book_id']. Did you mean 'show_books' instead?
+2025-03-07 00:13:50,592 | INFO | 127.0.0.1 - - [07/Mar/2025 00:13:50] "[35m[1mGET /show_books HTTP/1.1[0m" 500 -
+2025-03-07 00:18:10,080 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-07 00:18:10,097 | INFO | [33mPress CTRL+C to quit[0m
+2025-03-07 00:18:10,103 | INFO |  * Restarting with stat
+2025-03-07 00:18:11,516 | WARNING |  * Debugger is active!
+2025-03-07 00:18:11,782 | INFO |  * Debugger PIN: 418-400-157
+2025-03-07 00:18:15,399 | DEBUG | Home page accessed
+2025-03-07 00:18:15,469 | INFO | 127.0.0.1 - - [07/Mar/2025 00:18:15] "GET / HTTP/1.1" 200 -
+2025-03-07 00:18:16,603 | INFO | 127.0.0.1 - - [07/Mar/2025 00:18:16] "GET /static/styles.css HTTP/1.1" 200 -
+2025-03-07 00:18:41,266 | DEBUG | Home page accessed
+2025-03-07 00:18:41,269 | INFO | 127.0.0.1 - - [07/Mar/2025 00:18:41] "GET / HTTP/1.1" 200 -
+2025-03-07 00:18:41,353 | INFO | 127.0.0.1 - - [07/Mar/2025 00:18:41] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:18:47,523 | DEBUG | Home page accessed
+2025-03-07 00:18:47,528 | INFO | 127.0.0.1 - - [07/Mar/2025 00:18:47] "GET / HTTP/1.1" 200 -
+2025-03-07 00:18:47,616 | INFO | 127.0.0.1 - - [07/Mar/2025 00:18:47] "GET /static/styles.css HTTP/1.1" 200 -
+2025-03-07 00:18:56,137 | DEBUG | Home page accessed
+2025-03-07 00:18:56,141 | INFO | 127.0.0.1 - - [07/Mar/2025 00:18:56] "GET / HTTP/1.1" 200 -
+2025-03-07 00:18:56,232 | INFO | 127.0.0.1 - - [07/Mar/2025 00:18:56] "GET /static/styles.css HTTP/1.1" 200 -
+2025-03-07 00:18:56,348 | INFO | 127.0.0.1 - - [07/Mar/2025 00:18:56] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+2025-03-07 00:18:59,103 | ERROR | Show books error: Could not build url for endpoint 'borrow_book' with values ['book_id']. Did you mean 'show_books' instead?
+2025-03-07 00:18:59,104 | INFO | 127.0.0.1 - - [07/Mar/2025 00:18:59] "[35m[1mGET /show_books HTTP/1.1[0m" 500 -
+2025-03-07 00:19:02,192 | INFO | 127.0.0.1 - - [07/Mar/2025 00:19:02] "GET /search_books HTTP/1.1" 200 -
+2025-03-07 00:19:02,266 | INFO | 127.0.0.1 - - [07/Mar/2025 00:19:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:19:17,304 | INFO | 127.0.0.1 - - [07/Mar/2025 00:19:17] "GET /search_books?query=bojack HTTP/1.1" 200 -
+2025-03-07 00:19:17,377 | INFO | 127.0.0.1 - - [07/Mar/2025 00:19:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:19:23,348 | ERROR | Show books error: Could not build url for endpoint 'borrow_book' with values ['book_id']. Did you mean 'show_books' instead?
+2025-03-07 00:19:23,353 | INFO | 127.0.0.1 - - [07/Mar/2025 00:19:23] "[35m[1mGET /show_books HTTP/1.1[0m" 500 -
+2025-03-07 00:19:27,864 | INFO | 127.0.0.1 - - [07/Mar/2025 00:19:27] "GET /remove_book HTTP/1.1" 200 -
+2025-03-07 00:19:27,927 | INFO | 127.0.0.1 - - [07/Mar/2025 00:19:27] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:19:30,248 | INFO | 127.0.0.1 - - [07/Mar/2025 00:19:30] "GET /add_book HTTP/1.1" 200 -
+2025-03-07 00:19:30,307 | INFO | 127.0.0.1 - - [07/Mar/2025 00:19:30] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:19:32,800 | INFO | 127.0.0.1 - - [07/Mar/2025 00:19:32] "GET /signup HTTP/1.1" 200 -
+2025-03-07 00:19:32,858 | INFO | 127.0.0.1 - - [07/Mar/2025 00:19:32] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:19:39,363 | INFO | 127.0.0.1 - - [07/Mar/2025 00:19:39] "GET /login HTTP/1.1" 200 -
+2025-03-07 00:19:39,426 | INFO | 127.0.0.1 - - [07/Mar/2025 00:19:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:19:42,892 | ERROR | Show books error: Could not build url for endpoint 'borrow_book' with values ['book_id']. Did you mean 'show_books' instead?
+2025-03-07 00:19:42,897 | INFO | 127.0.0.1 - - [07/Mar/2025 00:19:42] "[35m[1mGET /show_books HTTP/1.1[0m" 500 -
+2025-03-07 00:21:44,760 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-07 00:21:44,760 | INFO | [33mPress CTRL+C to quit[0m
+2025-03-07 00:21:44,771 | INFO |  * Restarting with stat
+2025-03-07 00:21:46,159 | WARNING |  * Debugger is active!
+2025-03-07 00:21:46,183 | INFO |  * Debugger PIN: 418-400-157
+2025-03-07 00:21:53,748 | DEBUG | Home page accessed
+2025-03-07 00:21:53,785 | INFO | 127.0.0.1 - - [07/Mar/2025 00:21:53] "GET / HTTP/1.1" 200 -
+2025-03-07 00:21:54,287 | INFO | 127.0.0.1 - - [07/Mar/2025 00:21:54] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:21:54,453 | INFO | 127.0.0.1 - - [07/Mar/2025 00:21:54] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+2025-03-07 00:22:01,659 | ERROR | Show books error: Could not build url for endpoint 'borrow_book' with values ['book_id']. Did you mean 'show_books' instead?
+2025-03-07 00:22:01,663 | INFO | 127.0.0.1 - - [07/Mar/2025 00:22:01] "[35m[1mGET /show_books HTTP/1.1[0m" 500 -
+2025-03-07 00:22:07,321 | INFO | 127.0.0.1 - - [07/Mar/2025 00:22:07] "GET /search_books HTTP/1.1" 200 -
+2025-03-07 00:22:07,394 | INFO | 127.0.0.1 - - [07/Mar/2025 00:22:07] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:22:07,434 | INFO | 127.0.0.1 - - [07/Mar/2025 00:22:07] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+2025-03-07 00:22:11,388 | INFO | 127.0.0.1 - - [07/Mar/2025 00:22:11] "GET /add_book HTTP/1.1" 200 -
+2025-03-07 00:22:11,450 | INFO | 127.0.0.1 - - [07/Mar/2025 00:22:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:22:24,215 | INFO | New book added: My Stories
+2025-03-07 00:22:24,220 | INFO | 127.0.0.1 - - [07/Mar/2025 00:22:24] "[32mPOST /add_book HTTP/1.1[0m" 302 -
+2025-03-07 00:22:24,236 | ERROR | Show books error: Could not build url for endpoint 'borrow_book' with values ['book_id']. Did you mean 'show_books' instead?
+2025-03-07 00:22:24,239 | INFO | 127.0.0.1 - - [07/Mar/2025 00:22:24] "[35m[1mGET /show_books HTTP/1.1[0m" 500 -
+2025-03-07 00:22:47,467 | INFO | 127.0.0.1 - - [07/Mar/2025 00:22:47] "GET /login HTTP/1.1" 200 -
+2025-03-07 00:22:47,532 | INFO | 127.0.0.1 - - [07/Mar/2025 00:22:47] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:22:50,473 | INFO | 127.0.0.1 - - [07/Mar/2025 00:22:50] "GET /add_book HTTP/1.1" 200 -
+2025-03-07 00:22:50,542 | INFO | 127.0.0.1 - - [07/Mar/2025 00:22:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:22:52,912 | INFO | 127.0.0.1 - - [07/Mar/2025 00:22:52] "GET /search_books HTTP/1.1" 200 -
+2025-03-07 00:22:52,997 | INFO | 127.0.0.1 - - [07/Mar/2025 00:22:52] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:22:56,623 | INFO | 127.0.0.1 - - [07/Mar/2025 00:22:56] "GET /search_books?query=resume HTTP/1.1" 200 -
+2025-03-07 00:22:56,701 | INFO | 127.0.0.1 - - [07/Mar/2025 00:22:56] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:38:15,064 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-07 00:38:15,073 | INFO | [33mPress CTRL+C to quit[0m
+2025-03-07 00:39:21,577 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-07 00:39:21,578 | INFO | [33mPress CTRL+C to quit[0m
+2025-03-07 00:39:25,875 | DEBUG | Home page accessed
+2025-03-07 00:39:25,941 | INFO | 127.0.0.1 - - [07/Mar/2025 00:39:25] "GET / HTTP/1.1" 200 -
+2025-03-07 00:39:27,053 | INFO | 127.0.0.1 - - [07/Mar/2025 00:39:27] "GET /static/styles.css HTTP/1.1" 200 -
+2025-03-07 00:39:27,140 | INFO | 127.0.0.1 - - [07/Mar/2025 00:39:27] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+2025-03-07 00:39:30,098 | INFO | 127.0.0.1 - - [07/Mar/2025 00:39:30] "GET /login HTTP/1.1" 200 -
+2025-03-07 00:39:30,178 | INFO | 127.0.0.1 - - [07/Mar/2025 00:39:30] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:39:30,220 | INFO | 127.0.0.1 - - [07/Mar/2025 00:39:30] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+2025-03-07 00:39:36,873 | INFO | 127.0.0.1 - - [07/Mar/2025 00:39:36] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2025-03-07 00:39:40,846 | INFO | 127.0.0.1 - - [07/Mar/2025 00:39:40] "GET /signup HTTP/1.1" 200 -
+2025-03-07 00:39:40,914 | INFO | 127.0.0.1 - - [07/Mar/2025 00:39:40] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2025-03-07 00:39:53,412 | INFO | 127.0.0.1 - - [07/Mar/2025 00:39:53] "GET /add_book HTTP/1.1" 200 -
+2025-03-07 00:39:53,461 | INFO | 127.0.0.1 - - [07/Mar/2025 00:39:53] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2025-03-07 00:39:55,870 | INFO | 127.0.0.1 - - [07/Mar/2025 00:39:55] "GET /show_books HTTP/1.1" 200 -
+2025-03-07 00:39:55,936 | INFO | 127.0.0.1 - - [07/Mar/2025 00:39:55] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2025-03-07 00:40:05,789 | INFO | 127.0.0.1 - - [07/Mar/2025 00:40:05] "GET /search_books HTTP/1.1" 200 -
+2025-03-07 00:40:05,844 | INFO | 127.0.0.1 - - [07/Mar/2025 00:40:05] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2025-03-07 00:43:42,528 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-07 00:43:42,545 | INFO | [33mPress CTRL+C to quit[0m
+2025-03-07 00:43:47,199 | DEBUG | Home page accessed
+2025-03-07 00:43:47,259 | INFO | 127.0.0.1 - - [07/Mar/2025 00:43:47] "GET / HTTP/1.1" 200 -
+2025-03-07 00:43:48,113 | INFO | 127.0.0.1 - - [07/Mar/2025 00:43:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:43:48,504 | INFO | 127.0.0.1 - - [07/Mar/2025 00:43:48] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+2025-03-07 00:43:50,410 | INFO | 127.0.0.1 - - [07/Mar/2025 00:43:50] "GET /login HTTP/1.1" 200 -
+2025-03-07 00:43:50,494 | INFO | 127.0.0.1 - - [07/Mar/2025 00:43:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:43:50,580 | INFO | 127.0.0.1 - - [07/Mar/2025 00:43:50] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+2025-03-07 00:43:52,930 | INFO | 127.0.0.1 - - [07/Mar/2025 00:43:52] "GET /signup HTTP/1.1" 200 -
+2025-03-07 00:43:53,113 | INFO | 127.0.0.1 - - [07/Mar/2025 00:43:53] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2025-03-07 00:43:57,587 | INFO | 127.0.0.1 - - [07/Mar/2025 00:43:57] "GET /add_book HTTP/1.1" 200 -
+2025-03-07 00:43:57,640 | INFO | 127.0.0.1 - - [07/Mar/2025 00:43:57] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2025-03-07 00:44:00,023 | INFO | 127.0.0.1 - - [07/Mar/2025 00:44:00] "GET /remove_book HTTP/1.1" 200 -
+2025-03-07 00:44:00,078 | INFO | 127.0.0.1 - - [07/Mar/2025 00:44:00] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:44:00,110 | INFO | 127.0.0.1 - - [07/Mar/2025 00:44:00] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+2025-03-07 00:44:04,210 | INFO | 127.0.0.1 - - [07/Mar/2025 00:44:04] "GET /search_books HTTP/1.1" 200 -
+2025-03-07 00:44:04,676 | INFO | 127.0.0.1 - - [07/Mar/2025 00:44:04] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 00:44:07,117 | ERROR | Show books error: Could not build url for endpoint 'borrow_book' with values ['book_id']. Did you mean 'show_books' instead?
+2025-03-07 00:44:07,119 | INFO | 127.0.0.1 - - [07/Mar/2025 00:44:07] "[35m[1mGET /show_books HTTP/1.1[0m" 500 -
+2025-03-07 12:47:24,166 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-07 12:47:24,189 | INFO | [33mPress CTRL+C to quit[0m
+2025-03-07 12:47:30,850 | DEBUG | Home page accessed
+2025-03-07 12:47:30,990 | INFO | 127.0.0.1 - - [07/Mar/2025 12:47:30] "GET / HTTP/1.1" 200 -
+2025-03-07 12:47:31,540 | INFO | 127.0.0.1 - - [07/Mar/2025 12:47:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 12:47:31,816 | INFO | 127.0.0.1 - - [07/Mar/2025 12:47:31] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+2025-03-07 12:47:32,064 | INFO | 127.0.0.1 - - [07/Mar/2025 12:47:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-07 12:47:44,242 | ERROR | Show books error: Could not build url for endpoint 'borrow_book' with values ['book_id']. Did you mean 'show_books' instead?
+2025-03-07 12:47:44,246 | INFO | 127.0.0.1 - - [07/Mar/2025 12:47:44] "[35m[1mGET /show_books HTTP/1.1[0m" 500 -
+2025-03-07 12:48:08,025 | INFO | 127.0.0.1 - - [07/Mar/2025 12:48:08] "GET /search_books HTTP/1.1" 200 -
+2025-03-07 12:48:08,160 | INFO | 127.0.0.1 - - [07/Mar/2025 12:48:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 12:48:08,291 | INFO | 127.0.0.1 - - [07/Mar/2025 12:48:08] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+2025-03-07 12:48:11,483 | INFO | 127.0.0.1 - - [07/Mar/2025 12:48:11] "GET /remove_book HTTP/1.1" 200 -
+2025-03-07 12:48:11,551 | INFO | 127.0.0.1 - - [07/Mar/2025 12:48:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 12:48:11,596 | INFO | 127.0.0.1 - - [07/Mar/2025 12:48:11] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+2025-03-07 12:48:17,270 | INFO | 127.0.0.1 - - [07/Mar/2025 12:48:17] "GET /add_book HTTP/1.1" 200 -
+2025-03-07 12:48:17,350 | INFO | 127.0.0.1 - - [07/Mar/2025 12:48:17] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2025-03-07 12:49:16,931 | INFO | 127.0.0.1 - - [07/Mar/2025 12:49:16] "GET /search_books HTTP/1.1" 200 -
+2025-03-07 12:49:17,009 | INFO | 127.0.0.1 - - [07/Mar/2025 12:49:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 12:49:17,161 | INFO | 127.0.0.1 - - [07/Mar/2025 12:49:17] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+2025-03-07 12:53:50,996 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-07 12:53:50,996 | INFO | [33mPress CTRL+C to quit[0m
+2025-03-07 12:53:51,069 | INFO |  * Restarting with stat
+2025-03-07 12:53:52,162 | WARNING |  * Debugger is active!
+2025-03-07 12:53:52,435 | INFO |  * Debugger PIN: 164-235-760
+2025-03-07 12:53:56,503 | DEBUG | Home page accessed
+2025-03-07 12:53:56,612 | INFO | 127.0.0.1 - - [07/Mar/2025 12:53:56] "GET / HTTP/1.1" 200 -
+2025-03-07 12:54:02,179 | INFO | 127.0.0.1 - - [07/Mar/2025 12:54:02] "GET /signup HTTP/1.1" 200 -
+2025-03-07 12:54:08,803 | INFO | 127.0.0.1 - - [07/Mar/2025 12:54:08] "GET /login HTTP/1.1" 200 -
+2025-03-07 12:54:11,934 | INFO | 127.0.0.1 - - [07/Mar/2025 12:54:11] "GET /show_books HTTP/1.1" 200 -
+2025-03-07 12:54:17,497 | INFO | Book issued: My Stories
+2025-03-07 12:54:17,497 | INFO | 127.0.0.1 - - [07/Mar/2025 12:54:17] "[32mPOST /issue_book/2 HTTP/1.1[0m" 302 -
+2025-03-07 12:54:17,519 | INFO | 127.0.0.1 - - [07/Mar/2025 12:54:17] "GET /show_books HTTP/1.1" 200 -
+2025-03-07 12:54:19,903 | INFO | Book returned: My Stories
+2025-03-07 12:54:19,914 | INFO | 127.0.0.1 - - [07/Mar/2025 12:54:19] "[32mPOST /return_book/2 HTTP/1.1[0m" 302 -
+2025-03-07 12:54:19,932 | INFO | 127.0.0.1 - - [07/Mar/2025 12:54:19] "GET /show_books HTTP/1.1" 200 -
+2025-03-07 12:54:29,088 | INFO | 127.0.0.1 - - [07/Mar/2025 12:54:29] "GET /remove_book HTTP/1.1" 200 -
+2025-03-07 12:54:32,845 | INFO | 127.0.0.1 - - [07/Mar/2025 12:54:32] "GET /show_books HTTP/1.1" 200 -
+2025-03-07 12:54:39,093 | INFO | 127.0.0.1 - - [07/Mar/2025 12:54:39] "GET /search_books HTTP/1.1" 200 -
+2025-03-07 12:54:46,964 | INFO | 127.0.0.1 - - [07/Mar/2025 12:54:46] "GET /search_books?query=resume HTTP/1.1" 200 -
+2025-03-07 12:59:40,203 | DEBUG | Home page accessed
+2025-03-07 12:59:40,435 | INFO | 127.0.0.1 - - [07/Mar/2025 12:59:40] "GET / HTTP/1.1" 200 -
+2025-03-07 12:59:40,988 | INFO | 127.0.0.1 - - [07/Mar/2025 12:59:40] "GET /static/styles.css HTTP/1.1" 200 -
+2025-03-07 12:59:47,221 | INFO | 127.0.0.1 - - [07/Mar/2025 12:59:47] "GET /signup HTTP/1.1" 200 -
+2025-03-07 12:59:47,292 | INFO | 127.0.0.1 - - [07/Mar/2025 12:59:47] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 13:00:00,962 | INFO | 127.0.0.1 - - [07/Mar/2025 13:00:00] "GET /show_books HTTP/1.1" 200 -
+2025-03-07 13:00:01,024 | INFO | 127.0.0.1 - - [07/Mar/2025 13:00:01] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 13:00:18,048 | INFO | 127.0.0.1 - - [07/Mar/2025 13:00:18] "GET /add_book HTTP/1.1" 200 -
+2025-03-07 13:00:25,976 | INFO | 127.0.0.1 - - [07/Mar/2025 13:00:25] "GET /remove_book HTTP/1.1" 200 -
+2025-03-07 13:00:26,039 | INFO | 127.0.0.1 - - [07/Mar/2025 13:00:26] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 13:00:29,835 | INFO | 127.0.0.1 - - [07/Mar/2025 13:00:29] "GET /show_books HTTP/1.1" 200 -
+2025-03-07 13:00:29,900 | INFO | 127.0.0.1 - - [07/Mar/2025 13:00:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 13:00:32,388 | INFO | Book issued: Bojack Horseman
+2025-03-07 13:00:32,394 | INFO | 127.0.0.1 - - [07/Mar/2025 13:00:32] "[32mPOST /issue_book/1 HTTP/1.1[0m" 302 -
+2025-03-07 13:00:32,409 | INFO | 127.0.0.1 - - [07/Mar/2025 13:00:32] "GET /show_books HTTP/1.1" 200 -
+2025-03-07 13:00:32,480 | INFO | 127.0.0.1 - - [07/Mar/2025 13:00:32] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 13:00:36,177 | INFO | Book returned: Bojack Horseman
+2025-03-07 13:00:36,177 | INFO | 127.0.0.1 - - [07/Mar/2025 13:00:36] "[32mPOST /return_book/1 HTTP/1.1[0m" 302 -
+2025-03-07 13:00:36,192 | INFO | 127.0.0.1 - - [07/Mar/2025 13:00:36] "GET /show_books HTTP/1.1" 200 -
+2025-03-07 13:00:36,265 | INFO | 127.0.0.1 - - [07/Mar/2025 13:00:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 13:00:39,454 | INFO | 127.0.0.1 - - [07/Mar/2025 13:00:39] "GET /remove_book HTTP/1.1" 200 -
+2025-03-07 13:00:39,528 | INFO | 127.0.0.1 - - [07/Mar/2025 13:00:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 13:00:49,200 | INFO | 127.0.0.1 - - [07/Mar/2025 13:00:49] "GET /search_books HTTP/1.1" 200 -
+2025-03-07 13:00:49,267 | INFO | 127.0.0.1 - - [07/Mar/2025 13:00:49] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 13:03:19,455 | DEBUG | Home page accessed
+2025-03-07 13:03:19,605 | INFO | 127.0.0.1 - - [07/Mar/2025 13:03:19] "GET / HTTP/1.1" 200 -
+2025-03-07 13:03:19,709 | INFO | 127.0.0.1 - - [07/Mar/2025 13:03:19] "GET /static/styles.css HTTP/1.1" 200 -
+2025-03-07 13:10:26,229 | DEBUG | Home page accessed
+2025-03-07 13:10:26,550 | INFO | 127.0.0.1 - - [07/Mar/2025 13:10:26] "GET / HTTP/1.1" 200 -
+2025-03-07 13:10:26,820 | INFO | 127.0.0.1 - - [07/Mar/2025 13:10:26] "GET /static/styles.css HTTP/1.1" 200 -
+2025-03-07 13:10:36,607 | INFO | 127.0.0.1 - - [07/Mar/2025 13:10:36] "GET /signup HTTP/1.1" 200 -
+2025-03-07 13:10:36,695 | INFO | 127.0.0.1 - - [07/Mar/2025 13:10:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 13:10:43,449 | INFO | 127.0.0.1 - - [07/Mar/2025 13:10:43] "GET /show_books HTTP/1.1" 200 -
+2025-03-07 13:10:43,525 | INFO | 127.0.0.1 - - [07/Mar/2025 13:10:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 13:10:53,155 | INFO | 127.0.0.1 - - [07/Mar/2025 13:10:53] "GET /add_book HTTP/1.1" 200 -
+2025-03-07 13:10:56,258 | INFO | 127.0.0.1 - - [07/Mar/2025 13:10:56] "GET /remove_book HTTP/1.1" 200 -
+2025-03-07 13:10:56,325 | INFO | 127.0.0.1 - - [07/Mar/2025 13:10:56] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 13:10:59,308 | INFO | 127.0.0.1 - - [07/Mar/2025 13:10:59] "GET /search_books HTTP/1.1" 200 -
+2025-03-07 13:10:59,356 | INFO | 127.0.0.1 - - [07/Mar/2025 13:10:59] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 13:12:26,056 | INFO | 127.0.0.1 - - [07/Mar/2025 13:12:26] "GET /signup HTTP/1.1" 200 -
+2025-03-07 13:12:26,141 | INFO | 127.0.0.1 - - [07/Mar/2025 13:12:26] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 13:12:31,063 | INFO | 127.0.0.1 - - [07/Mar/2025 13:12:31] "GET /login HTTP/1.1" 200 -
+2025-03-07 13:15:36,290 | DEBUG | Home page accessed
+2025-03-07 13:15:36,505 | INFO | 127.0.0.1 - - [07/Mar/2025 13:15:36] "GET / HTTP/1.1" 200 -
+2025-03-07 13:15:36,880 | INFO | 127.0.0.1 - - [07/Mar/2025 13:15:36] "GET /static/styles.css HTTP/1.1" 200 -
+2025-03-07 13:15:48,423 | INFO | 127.0.0.1 - - [07/Mar/2025 13:15:48] "GET /signup HTTP/1.1" 200 -
+2025-03-07 13:15:48,506 | INFO | 127.0.0.1 - - [07/Mar/2025 13:15:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 13:15:51,899 | INFO | 127.0.0.1 - - [07/Mar/2025 13:15:51] "GET /login HTTP/1.1" 200 -
+2025-03-07 13:15:57,198 | INFO | 127.0.0.1 - - [07/Mar/2025 13:15:57] "GET /show_books HTTP/1.1" 200 -
+2025-03-07 13:15:57,276 | INFO | 127.0.0.1 - - [07/Mar/2025 13:15:57] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 13:16:52,647 | INFO | 127.0.0.1 - - [07/Mar/2025 13:16:52] "GET /add_book HTTP/1.1" 200 -
+2025-03-07 13:16:55,997 | INFO | 127.0.0.1 - - [07/Mar/2025 13:16:55] "GET /login HTTP/1.1" 200 -
+2025-03-07 13:17:23,277 | INFO | 127.0.0.1 - - [07/Mar/2025 13:17:23] "GET /search_books HTTP/1.1" 200 -
+2025-03-07 13:17:23,340 | INFO | 127.0.0.1 - - [07/Mar/2025 13:17:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 13:19:09,812 | INFO | 127.0.0.1 - - [07/Mar/2025 13:19:09] "GET /search_books HTTP/1.1" 200 -
+2025-03-07 13:19:10,258 | INFO | 127.0.0.1 - - [07/Mar/2025 13:19:10] "GET /static/styles.css HTTP/1.1" 200 -
+2025-03-07 13:19:22,737 | INFO | 127.0.0.1 - - [07/Mar/2025 13:19:22] "GET /signup HTTP/1.1" 200 -
+2025-03-07 13:19:22,812 | INFO | 127.0.0.1 - - [07/Mar/2025 13:19:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 13:19:26,230 | INFO | 127.0.0.1 - - [07/Mar/2025 13:19:26] "GET /login HTTP/1.1" 200 -
+2025-03-07 13:19:26,303 | INFO | 127.0.0.1 - - [07/Mar/2025 13:19:26] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 13:19:33,294 | INFO | 127.0.0.1 - - [07/Mar/2025 13:19:33] "GET /show_books HTTP/1.1" 200 -
+2025-03-07 13:19:33,367 | INFO | 127.0.0.1 - - [07/Mar/2025 13:19:33] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 13:19:51,616 | INFO | 127.0.0.1 - - [07/Mar/2025 13:19:51] "GET /search_books HTTP/1.1" 200 -
+2025-03-07 13:19:51,683 | INFO | 127.0.0.1 - - [07/Mar/2025 13:19:51] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 13:20:00,001 | INFO | 127.0.0.1 - - [07/Mar/2025 13:20:00] "GET /show_books HTTP/1.1" 200 -
+2025-03-07 13:20:00,088 | INFO | 127.0.0.1 - - [07/Mar/2025 13:20:00] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 13:20:01,988 | INFO | Book issued: Bojack Horseman
+2025-03-07 13:20:01,994 | INFO | 127.0.0.1 - - [07/Mar/2025 13:20:01] "[32mPOST /issue_book/1 HTTP/1.1[0m" 302 -
+2025-03-07 13:20:02,012 | INFO | 127.0.0.1 - - [07/Mar/2025 13:20:02] "GET /show_books HTTP/1.1" 200 -
+2025-03-07 13:20:02,087 | INFO | 127.0.0.1 - - [07/Mar/2025 13:20:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 13:20:10,361 | INFO | Book returned: Bojack Horseman
+2025-03-07 13:20:10,367 | INFO | 127.0.0.1 - - [07/Mar/2025 13:20:10] "[32mPOST /return_book/1 HTTP/1.1[0m" 302 -
+2025-03-07 13:20:10,390 | INFO | 127.0.0.1 - - [07/Mar/2025 13:20:10] "GET /show_books HTTP/1.1" 200 -
+2025-03-07 13:20:10,463 | INFO | 127.0.0.1 - - [07/Mar/2025 13:20:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 13:20:17,443 | INFO | 127.0.0.1 - - [07/Mar/2025 13:20:17] "GET /search_books HTTP/1.1" 200 -
+2025-03-07 13:20:17,654 | INFO | 127.0.0.1 - - [07/Mar/2025 13:20:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 13:20:20,736 | INFO | 127.0.0.1 - - [07/Mar/2025 13:20:20] "GET /show_books HTTP/1.1" 200 -
+2025-03-07 13:20:20,814 | INFO | 127.0.0.1 - - [07/Mar/2025 13:20:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 13:22:49,986 | DEBUG | Home page accessed
+2025-03-07 13:22:50,393 | INFO | 127.0.0.1 - - [07/Mar/2025 13:22:50] "GET / HTTP/1.1" 200 -
+2025-03-07 13:22:54,441 | INFO | 127.0.0.1 - - [07/Mar/2025 13:22:54] "GET /signup HTTP/1.1" 200 -
+2025-03-07 13:22:54,754 | INFO | 127.0.0.1 - - [07/Mar/2025 13:22:54] "GET /static/styles.css HTTP/1.1" 200 -
+2025-03-07 13:23:01,919 | INFO | 127.0.0.1 - - [07/Mar/2025 13:23:01] "GET /signup HTTP/1.1" 200 -
+2025-03-07 13:23:01,974 | INFO | 127.0.0.1 - - [07/Mar/2025 13:23:01] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 13:23:06,985 | DEBUG | Home page accessed
+2025-03-07 13:23:07,075 | INFO | 127.0.0.1 - - [07/Mar/2025 13:23:07] "GET / HTTP/1.1" 200 -
+2025-03-07 13:23:07,149 | INFO | 127.0.0.1 - - [07/Mar/2025 13:23:07] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 13:23:15,793 | DEBUG | Home page accessed
+2025-03-07 13:23:15,798 | INFO | 127.0.0.1 - - [07/Mar/2025 13:23:15] "GET / HTTP/1.1" 200 -
+2025-03-07 13:23:15,976 | INFO | 127.0.0.1 - - [07/Mar/2025 13:23:15] "GET /static/styles.css HTTP/1.1" 200 -
+2025-03-07 13:23:36,362 | INFO | 127.0.0.1 - - [07/Mar/2025 13:23:36] "GET /signup HTTP/1.1" 200 -
+2025-03-07 13:23:36,451 | INFO | 127.0.0.1 - - [07/Mar/2025 13:23:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 13:23:40,720 | INFO | 127.0.0.1 - - [07/Mar/2025 13:23:40] "GET /login HTTP/1.1" 200 -
+2025-03-07 13:23:40,791 | INFO | 127.0.0.1 - - [07/Mar/2025 13:23:40] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 13:23:58,841 | INFO | 127.0.0.1 - - [07/Mar/2025 13:23:58] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2025-03-07 13:24:06,413 | INFO | 127.0.0.1 - - [07/Mar/2025 13:24:06] "GET /signup HTTP/1.1" 200 -
+2025-03-07 13:24:06,508 | INFO | 127.0.0.1 - - [07/Mar/2025 13:24:06] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 13:24:22,838 | INFO | New member signed up: timepass@gmail.com
+2025-03-07 13:24:22,842 | INFO | 127.0.0.1 - - [07/Mar/2025 13:24:22] "[32mPOST /signup HTTP/1.1[0m" 302 -
+2025-03-07 13:24:22,858 | INFO | 127.0.0.1 - - [07/Mar/2025 13:24:22] "GET /login HTTP/1.1" 200 -
+2025-03-07 13:24:22,943 | INFO | 127.0.0.1 - - [07/Mar/2025 13:24:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 13:24:34,684 | INFO | timepass@gmail.com logged in.
+2025-03-07 13:24:34,729 | INFO | 127.0.0.1 - - [07/Mar/2025 13:24:34] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-03-07 13:24:34,761 | DEBUG | Home page accessed
+2025-03-07 13:24:34,767 | INFO | 127.0.0.1 - - [07/Mar/2025 13:24:34] "GET / HTTP/1.1" 200 -
+2025-03-07 13:24:34,847 | INFO | 127.0.0.1 - - [07/Mar/2025 13:24:34] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 13:31:59,962 | DEBUG | Home page accessed
+2025-03-07 13:32:00,002 | INFO | 127.0.0.1 - - [07/Mar/2025 13:32:00] "GET / HTTP/1.1" 200 -
+2025-03-07 13:32:00,082 | INFO | 127.0.0.1 - - [07/Mar/2025 13:32:00] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 13:32:28,027 | INFO | 127.0.0.1 - - [07/Mar/2025 13:32:28] "GET /show_books HTTP/1.1" 200 -
+2025-03-07 13:32:28,110 | INFO | 127.0.0.1 - - [07/Mar/2025 13:32:28] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-03-07 13:32:35,488 | INFO | 127.0.0.1 - - [07/Mar/2025 13:32:35] "GET /remove_book HTTP/1.1" 200 -
+2025-03-07 13:32:35,572 | INFO | 127.0.0.1 - - [07/Mar/2025 13:32:35] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -

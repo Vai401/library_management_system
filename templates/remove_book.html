@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Remove Book</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+
+<body>
+    <header>
+        <h1>Remove a Book</h1>
+    </header>
+    <main class="container">
+        <form method="POST">
+            <input type="text" name="book_id" placeholder="Book ID" required>
+            <button type="submit">Remove Book</button>
+        </form>
+        <div>
+            <a href="{{ url_for('show_books') }}">Back to Book List</a>
+        </div>
+    </main>
+</body>
+
+</html>

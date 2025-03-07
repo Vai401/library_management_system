@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Show Books</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+
+<body>
+    <header>
+        <h1>Available Books</h1>
+        <p class="tagline">Explore a world of books waiting to be borrowed!</p>
+    </header>
+    <main class="container">
+        <table>
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Title</th>
+                    <th>Author</th>
+                    <th>Status</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% if books %}
+                    {% for book in books %}
+                        <tr>
+                            <td>{{ book.id }}</td>
+                            <td>{{ book.title }}</td>
+                            <td>{{ book.author }}</td>
+                            <td>{{ 'Borrowed' if book.is_issued else 'Available' }}</td>
+                            <td>
+                                {% if not book.is_issued %}
+                                    <form method="POST" action="{{ url_for('issue_book', book_id=book.id) }}" style="display:inline-block;">
+                                        <button type="submit">Issue</button>
+                                    </form>
+                                {% else %}
+                                    <form method="POST" action="{{ url_for('return_book', book_id=book.id) }}" style="display:inline-block;">
+                                        <button type="submit">Return</button>
+                                    </form>
+                                {% endif %}
+                            </td>
+                        </tr>
+                    {% endfor %}
+                {% else %}
+                    <tr>
+                        <td colspan="5">No books available.</td>
+                    </tr>
+                {% endif %}
+            </tbody>
+        </table>
+        <div class="function-links">
+            <a href="{{ url_for('add_book') }}">Add New Book</a>
+            <a href="{{ url_for('remove_book') }}">Remove A Book</a>
+            <a href="{{ url_for('search_books') }}">Search for a Book</a>
+        </div>
+    </main>
+</body>
+
+</html>

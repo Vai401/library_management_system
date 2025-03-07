@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Book</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+
+<body>
+    <header>
+        <h1>Add a New Book</h1>
+        <p class="tagline">Help grow our library with new titles!</p>
+    </header>
+    <main class="container">
+        <form method="POST">
+            <input type="text" name="title" placeholder="Book Title" required>
+            <input type="text" name="author" placeholder="Author Name" required>
+            <button type="submit">Add Book</button>
+        </form>
+        <div class="function-links">
+            <a href="{{ url_for('show_books') }}">Back to Book List</a>
+            <a href="{{ url_for('remove_book') }}">Remove A Book</a>
+            <a href="{{ url_for('search_books') }}">Search for a Book</a>
+        </div>
+    </main>
+</body>
+
+</html>

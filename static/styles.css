@@ -1,0 +1,119 @@
+body {
+    font-family: 'Verdana', sans-serif; /* Font family */
+    background-color: #e6e6fa; /* Light purple background */
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #9932cc; /* Darker purple for header */
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 5px solid #6a0dad; /* Added border */
+}
+
+h1 {
+    margin-bottom: 5px;
+    font-size: 36px; /* Increased heading size */
+    font-weight: bold; /* Bold font */
+}
+
+.tagline {
+    font-size: 20px; /* Tagline size */
+    font-weight: normal; /* Regular font weight */
+    margin-top: 5px;
+}
+
+.function-links {
+    display: flex; /* Flex display for horizontal alignment */
+    justify-content: center; /* Center alignment */
+    flex-wrap: wrap; /* Wraps links if too many */
+    margin: 30px auto; /* Space above and auto alignment */
+    max-width: 800px; /* Limit maximum width */
+}
+
+.function-links a {
+    background-color: #9370db; /* Light purple button */
+    color: white; /* White text */
+    padding: 15px 25px; /* Increased padding */
+    border-radius: 10px; /* Rounded corners */
+    text-align: center;
+    margin: 10px; /* Space between buttons */
+    text-decoration: none; /* Remove underline */
+    font-size: 20px; /* Size for function buttons */
+    font-weight: bold; /* Bolder fonts */
+    transition: background-color 0.3s ease; /* Smooth hover transition */
+}
+
+.function-links a:hover {
+    background-color: #7b68ee; /* Slightly darker violet on hover */
+}
+
+.container {
+    max-width: 1000px; /* Limit container width */
+    margin: 0 auto; /* Center alignment */
+    padding: 20px; /* Add padding around container */
+}
+
+form {
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    max-width: 400px; /* Limit form width */
+    text-align: center;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+    width: calc(100% - 22px);
+    padding: 10px;
+    margin: 10px 0;
+    border: 2px solid #9932cc; /* Using header color */
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 16px; /* Increased font size for inputs */
+}
+
+button {
+    background-color: #9932cc;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #7b68ee; /* Darker purple on hover */
+}
+
+table {
+    width: 100%; /* Full width */
+    border-collapse: collapse;
+    margin: 20px auto;
+    background-color: white; /* Table background */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+th, td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    text-align: left;
+}
+
+th {
+    background-color: #9932cc; /* Header color */
+    color: white; /* Text color for header */
+}
+
+tbody tr:hover {
+    background-color: #f1f1f1; /* Hover effect for rows */
+}
